@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gráficos</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- UIkit CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.21.16/dist/css/uikit.min.css" />
+
+</head>
+<body>
+ 
+
+  <!-- Barra de navegación -->
+<div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky">
+    <nav class="uk-navbar-container uk-navbar-primary" uk-navbar="dropbar: true">
+        <div class="uk-navbar-left">
+            <!-- Texto a la izquierda -->
+            <h6 class="uk-navbar-item">Gráficos de Transporte</h6>
+        </div>
+        <div class="uk-navbar-right">
+            <!-- Texto a la derecha -->
+            <p class="uk-navbar-item">Otro texto a la derecha</p>
+        </div>
+    </nav>
+</div>
+
+    <h2>Gráfico de Barras (Matplotlib)</h2>
+    <img src="data:image/png;base64,{{ matplotlib_plot }}" alt="Gráfico de Barras">
+
+    <h2>Gráfico de Dispersión (Plotly)</h2>
+    <div>{{ plotly_scatter | safe }}</div>
+
+    <h2>Gráfico de Pastel (Plotly)</h2>
+    <div>{{ plotly_pie | safe }}</div>
+
+    <!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.21.16/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.21.16/dist/js/uikit-icons.min.js"></script>
+</body>
+</html>

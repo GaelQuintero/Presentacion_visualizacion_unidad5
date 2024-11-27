@@ -1,0 +1,1001 @@
+idRoute,nameRoute,transportation,distance
+1,Periferico,tren,50 km
+2,Periferico,tren,30 km
+3,17,autobus,20 km
+4,2B San Angel,autobus,20 km
+5,Ramos,bicicleta,50 km
+6,Ramos,tren,30 km
+7,Express,autobus,20 km
+8,Ramos,autobus,50 km
+9,Ramos,bicicleta,50 km
+10,17,bicicleta,30 km
+11,Periferico,tren,30 km
+12,2B San Angel,bicicleta,50 km
+13,Ramos,autobus,50 km
+14,Express,tren,30 km
+15,17,bicicleta,10 km
+16,Periferico,bicicleta,10 km
+17,Ramos,bicicleta,20 km
+18,Ramos,bicicleta,10 km
+19,2B San Angel,autobus,40 km
+20,Express,bicicleta,10 km
+21,Express,tren,20 km
+22,Express,bicicleta,30 km
+23,2B San Angel,tren,40 km
+24,17,tren,20 km
+25,Express,tren,30 km
+26,Express,autobus,20 km
+27,Express,bicicleta,10 km
+28,17,bicicleta,10 km
+29,2B San Angel,bicicleta,20 km
+30,Express,bicicleta,10 km
+31,Ramos,autobus,10 km
+32,Ramos,autobus,40 km
+33,17,bicicleta,40 km
+34,Periferico,autobus,40 km
+35,17,autobus,10 km
+36,2B San Angel,tren,50 km
+37,Ramos,tren,10 km
+38,Periferico,bicicleta,10 km
+39,Ramos,bicicleta,40 km
+40,2B San Angel,bicicleta,30 km
+41,17,autobus,20 km
+42,17,tren,30 km
+43,17,autobus,20 km
+44,17,tren,50 km
+45,17,tren,20 km
+46,Ramos,autobus,50 km
+47,Express,autobus,50 km
+48,Periferico,autobus,20 km
+49,Express,tren,10 km
+50,17,autobus,20 km
+51,Express,tren,10 km
+52,Express,bicicleta,20 km
+53,Ramos,bicicleta,10 km
+54,17,tren,30 km
+55,Ramos,bicicleta,40 km
+56,2B San Angel,autobus,40 km
+57,17,bicicleta,20 km
+58,17,bicicleta,40 km
+59,Periferico,autobus,40 km
+60,17,tren,20 km
+61,Express,tren,30 km
+62,Ramos,tren,20 km
+63,Periferico,bicicleta,50 km
+64,Periferico,tren,10 km
+65,17,autobus,10 km
+66,Express,tren,10 km
+67,Ramos,autobus,30 km
+68,17,bicicleta,50 km
+69,Express,autobus,10 km
+70,Express,tren,50 km
+71,Express,bicicleta,30 km
+72,2B San Angel,tren,50 km
+73,2B San Angel,bicicleta,20 km
+74,Periferico,autobus,30 km
+75,Express,bicicleta,50 km
+76,Periferico,tren,40 km
+77,2B San Angel,bicicleta,20 km
+78,Ramos,bicicleta,30 km
+79,Express,autobus,10 km
+80,Periferico,tren,40 km
+81,Periferico,tren,10 km
+82,Express,autobus,50 km
+83,Express,bicicleta,40 km
+84,Express,autobus,30 km
+85,Express,tren,30 km
+86,Ramos,bicicleta,10 km
+87,2B San Angel,bicicleta,40 km
+88,Ramos,bicicleta,40 km
+89,Periferico,tren,40 km
+90,Ramos,bicicleta,30 km
+91,Ramos,bicicleta,30 km
+92,17,tren,40 km
+93,17,autobus,30 km
+94,Periferico,bicicleta,40 km
+95,17,autobus,10 km
+96,Express,tren,20 km
+97,Express,tren,50 km
+98,Ramos,autobus,30 km
+99,2B San Angel,bicicleta,10 km
+100,17,autobus,50 km
+101,17,bicicleta,20 km
+102,Periferico,tren,30 km
+103,Periferico,autobus,50 km
+104,17,autobus,10 km
+105,Periferico,tren,20 km
+106,Express,autobus,10 km
+107,Periferico,tren,40 km
+108,Express,tren,40 km
+109,Periferico,bicicleta,40 km
+110,Express,autobus,30 km
+111,2B San Angel,autobus,40 km
+112,17,autobus,40 km
+113,Ramos,bicicleta,50 km
+114,Periferico,bicicleta,10 km
+115,Express,autobus,30 km
+116,17,autobus,40 km
+117,Express,tren,40 km
+118,Periferico,bicicleta,10 km
+119,2B San Angel,autobus,10 km
+120,Ramos,autobus,30 km
+121,Periferico,tren,20 km
+122,Express,bicicleta,20 km
+123,2B San Angel,autobus,20 km
+124,17,autobus,20 km
+125,2B San Angel,tren,50 km
+126,Periferico,autobus,40 km
+127,Periferico,autobus,20 km
+128,Periferico,bicicleta,20 km
+129,2B San Angel,autobus,50 km
+130,Express,tren,50 km
+131,17,bicicleta,30 km
+132,17,bicicleta,40 km
+133,Periferico,autobus,40 km
+134,2B San Angel,tren,50 km
+135,Express,bicicleta,30 km
+136,2B San Angel,tren,10 km
+137,Express,bicicleta,30 km
+138,2B San Angel,autobus,30 km
+139,Periferico,autobus,50 km
+140,2B San Angel,bicicleta,20 km
+141,Ramos,bicicleta,30 km
+142,Express,tren,20 km
+143,Ramos,tren,40 km
+144,Periferico,tren,20 km
+145,17,tren,30 km
+146,17,bicicleta,40 km
+147,17,autobus,20 km
+148,Periferico,tren,40 km
+149,Express,bicicleta,20 km
+150,Ramos,tren,20 km
+151,Express,bicicleta,10 km
+152,Express,tren,20 km
+153,17,tren,20 km
+154,Express,tren,40 km
+155,Periferico,bicicleta,10 km
+156,2B San Angel,autobus,10 km
+157,Periferico,autobus,30 km
+158,17,autobus,20 km
+159,Ramos,bicicleta,10 km
+160,Ramos,bicicleta,20 km
+161,Express,autobus,40 km
+162,Express,autobus,10 km
+163,Express,bicicleta,10 km
+164,17,bicicleta,20 km
+165,Periferico,bicicleta,10 km
+166,Periferico,autobus,40 km
+167,Periferico,tren,50 km
+168,Ramos,bicicleta,50 km
+169,2B San Angel,autobus,30 km
+170,2B San Angel,bicicleta,30 km
+171,Ramos,tren,30 km
+172,17,tren,10 km
+173,Periferico,autobus,10 km
+174,Periferico,autobus,10 km
+175,Periferico,tren,50 km
+176,17,tren,50 km
+177,Express,autobus,40 km
+178,Ramos,autobus,10 km
+179,2B San Angel,autobus,20 km
+180,2B San Angel,bicicleta,10 km
+181,2B San Angel,tren,40 km
+182,Periferico,bicicleta,50 km
+183,2B San Angel,tren,40 km
+184,Periferico,autobus,20 km
+185,2B San Angel,autobus,10 km
+186,17,bicicleta,40 km
+187,2B San Angel,tren,10 km
+188,Periferico,bicicleta,50 km
+189,2B San Angel,bicicleta,10 km
+190,Ramos,tren,20 km
+191,Periferico,autobus,40 km
+192,2B San Angel,tren,10 km
+193,Ramos,autobus,40 km
+194,Express,autobus,30 km
+195,2B San Angel,bicicleta,30 km
+196,Express,bicicleta,40 km
+197,Express,bicicleta,20 km
+198,Ramos,tren,10 km
+199,Express,tren,40 km
+200,Periferico,tren,30 km
+201,2B San Angel,autobus,20 km
+202,2B San Angel,autobus,10 km
+203,Ramos,autobus,30 km
+204,17,tren,10 km
+205,Ramos,autobus,40 km
+206,Ramos,tren,20 km
+207,2B San Angel,autobus,40 km
+208,2B San Angel,tren,30 km
+209,2B San Angel,bicicleta,20 km
+210,2B San Angel,bicicleta,50 km
+211,17,tren,20 km
+212,Periferico,tren,10 km
+213,17,tren,20 km
+214,Express,tren,40 km
+215,Periferico,tren,50 km
+216,Ramos,tren,20 km
+217,Express,tren,30 km
+218,Periferico,autobus,20 km
+219,2B San Angel,autobus,40 km
+220,Periferico,tren,10 km
+221,2B San Angel,autobus,30 km
+222,17,tren,40 km
+223,Periferico,bicicleta,40 km
+224,Ramos,tren,30 km
+225,Periferico,autobus,40 km
+226,Express,tren,20 km
+227,Periferico,bicicleta,10 km
+228,17,tren,30 km
+229,2B San Angel,autobus,50 km
+230,Express,autobus,20 km
+231,Periferico,tren,30 km
+232,Periferico,autobus,20 km
+233,2B San Angel,tren,20 km
+234,Ramos,bicicleta,20 km
+235,Ramos,bicicleta,10 km
+236,17,tren,40 km
+237,17,bicicleta,10 km
+238,Express,autobus,50 km
+239,Periferico,bicicleta,50 km
+240,2B San Angel,bicicleta,50 km
+241,17,tren,40 km
+242,Ramos,tren,30 km
+243,Ramos,autobus,40 km
+244,2B San Angel,tren,10 km
+245,Periferico,bicicleta,40 km
+246,2B San Angel,bicicleta,10 km
+247,17,autobus,50 km
+248,Periferico,autobus,40 km
+249,2B San Angel,autobus,50 km
+250,Express,autobus,40 km
+251,17,autobus,30 km
+252,Express,tren,30 km
+253,2B San Angel,bicicleta,50 km
+254,2B San Angel,bicicleta,50 km
+255,2B San Angel,tren,40 km
+256,Ramos,bicicleta,50 km
+257,2B San Angel,autobus,10 km
+258,Periferico,tren,40 km
+259,17,autobus,20 km
+260,17,autobus,10 km
+261,Express,bicicleta,40 km
+262,Express,autobus,50 km
+263,Express,tren,50 km
+264,17,autobus,30 km
+265,2B San Angel,tren,10 km
+266,Ramos,tren,10 km
+267,17,bicicleta,40 km
+268,Ramos,bicicleta,50 km
+269,17,tren,30 km
+270,Periferico,bicicleta,40 km
+271,Ramos,tren,10 km
+272,2B San Angel,bicicleta,40 km
+273,Periferico,tren,30 km
+274,Ramos,autobus,40 km
+275,2B San Angel,bicicleta,30 km
+276,17,tren,10 km
+277,17,tren,50 km
+278,Periferico,tren,40 km
+279,17,tren,30 km
+280,Ramos,tren,40 km
+281,17,autobus,20 km
+282,2B San Angel,tren,30 km
+283,Express,bicicleta,20 km
+284,Ramos,tren,20 km
+285,Express,bicicleta,30 km
+286,17,autobus,30 km
+287,Ramos,tren,10 km
+288,Express,tren,40 km
+289,Express,bicicleta,20 km
+290,17,bicicleta,40 km
+291,17,bicicleta,50 km
+292,2B San Angel,bicicleta,10 km
+293,Ramos,tren,20 km
+294,2B San Angel,bicicleta,30 km
+295,17,bicicleta,30 km
+296,17,autobus,40 km
+297,Ramos,tren,40 km
+298,2B San Angel,autobus,20 km
+299,17,bicicleta,50 km
+300,17,bicicleta,40 km
+301,Ramos,tren,50 km
+302,Express,tren,40 km
+303,Ramos,tren,10 km
+304,Ramos,bicicleta,40 km
+305,2B San Angel,tren,40 km
+306,17,tren,30 km
+307,Periferico,tren,50 km
+308,17,bicicleta,20 km
+309,2B San Angel,bicicleta,50 km
+310,2B San Angel,bicicleta,10 km
+311,2B San Angel,tren,40 km
+312,Periferico,tren,30 km
+313,Ramos,tren,50 km
+314,Periferico,autobus,20 km
+315,Express,autobus,30 km
+316,17,tren,50 km
+317,Ramos,tren,30 km
+318,Periferico,tren,20 km
+319,17,bicicleta,50 km
+320,2B San Angel,bicicleta,50 km
+321,Ramos,tren,20 km
+322,Express,bicicleta,10 km
+323,Periferico,tren,10 km
+324,Ramos,autobus,40 km
+325,2B San Angel,bicicleta,20 km
+326,Express,autobus,30 km
+327,Ramos,autobus,20 km
+328,17,autobus,40 km
+329,2B San Angel,autobus,10 km
+330,Ramos,autobus,20 km
+331,17,bicicleta,10 km
+332,Express,bicicleta,20 km
+333,Express,autobus,40 km
+334,Periferico,autobus,40 km
+335,Ramos,autobus,10 km
+336,Express,tren,50 km
+337,2B San Angel,tren,10 km
+338,Ramos,tren,50 km
+339,17,autobus,30 km
+340,Express,autobus,20 km
+341,Periferico,tren,40 km
+342,2B San Angel,tren,50 km
+343,2B San Angel,bicicleta,20 km
+344,17,autobus,30 km
+345,Ramos,autobus,40 km
+346,Periferico,autobus,50 km
+347,Ramos,tren,50 km
+348,Periferico,autobus,30 km
+349,Express,autobus,50 km
+350,Periferico,tren,10 km
+351,17,bicicleta,40 km
+352,Express,autobus,40 km
+353,Ramos,autobus,30 km
+354,Ramos,autobus,30 km
+355,Periferico,tren,40 km
+356,17,tren,40 km
+357,Ramos,autobus,30 km
+358,17,tren,30 km
+359,Express,autobus,30 km
+360,Ramos,autobus,20 km
+361,17,tren,10 km
+362,Express,autobus,40 km
+363,17,bicicleta,30 km
+364,17,tren,30 km
+365,Periferico,tren,20 km
+366,Ramos,tren,40 km
+367,Express,bicicleta,30 km
+368,17,tren,50 km
+369,2B San Angel,autobus,20 km
+370,2B San Angel,tren,30 km
+371,17,bicicleta,30 km
+372,Express,bicicleta,30 km
+373,17,bicicleta,20 km
+374,Periferico,autobus,20 km
+375,Express,tren,30 km
+376,Ramos,autobus,40 km
+377,2B San Angel,tren,10 km
+378,2B San Angel,tren,20 km
+379,Ramos,bicicleta,10 km
+380,2B San Angel,autobus,30 km
+381,Express,autobus,10 km
+382,17,autobus,10 km
+383,17,tren,20 km
+384,2B San Angel,tren,20 km
+385,2B San Angel,tren,20 km
+386,Express,tren,10 km
+387,Express,autobus,40 km
+388,Ramos,autobus,30 km
+389,Express,tren,50 km
+390,Ramos,tren,10 km
+391,2B San Angel,autobus,30 km
+392,Express,bicicleta,30 km
+393,17,bicicleta,30 km
+394,2B San Angel,bicicleta,20 km
+395,2B San Angel,bicicleta,20 km
+396,Ramos,tren,30 km
+397,17,tren,50 km
+398,2B San Angel,autobus,10 km
+399,2B San Angel,autobus,30 km
+400,17,autobus,40 km
+401,17,autobus,50 km
+402,2B San Angel,tren,30 km
+403,Express,bicicleta,30 km
+404,2B San Angel,bicicleta,30 km
+405,Express,autobus,30 km
+406,Express,tren,50 km
+407,Periferico,tren,50 km
+408,Ramos,bicicleta,20 km
+409,Express,bicicleta,10 km
+410,17,autobus,50 km
+411,Express,bicicleta,30 km
+412,2B San Angel,autobus,20 km
+413,Express,bicicleta,50 km
+414,2B San Angel,bicicleta,40 km
+415,2B San Angel,bicicleta,20 km
+416,Periferico,autobus,30 km
+417,Periferico,tren,30 km
+418,Ramos,bicicleta,50 km
+419,2B San Angel,tren,50 km
+420,17,tren,30 km
+421,Periferico,autobus,40 km
+422,2B San Angel,autobus,30 km
+423,Ramos,autobus,30 km
+424,17,bicicleta,40 km
+425,Express,autobus,50 km
+426,Ramos,tren,30 km
+427,2B San Angel,tren,50 km
+428,2B San Angel,bicicleta,10 km
+429,2B San Angel,tren,20 km
+430,Ramos,tren,30 km
+431,2B San Angel,tren,30 km
+432,17,autobus,20 km
+433,Periferico,tren,20 km
+434,Periferico,tren,20 km
+435,Ramos,tren,40 km
+436,Periferico,tren,50 km
+437,Express,tren,50 km
+438,Express,autobus,30 km
+439,2B San Angel,bicicleta,50 km
+440,Express,tren,20 km
+441,2B San Angel,bicicleta,30 km
+442,Ramos,bicicleta,20 km
+443,Express,tren,30 km
+444,Periferico,tren,30 km
+445,Express,tren,40 km
+446,Express,autobus,50 km
+447,Express,bicicleta,10 km
+448,2B San Angel,tren,40 km
+449,Express,autobus,50 km
+450,Express,autobus,50 km
+451,2B San Angel,tren,40 km
+452,2B San Angel,autobus,20 km
+453,Periferico,bicicleta,10 km
+454,Express,tren,20 km
+455,2B San Angel,bicicleta,10 km
+456,2B San Angel,tren,30 km
+457,Express,autobus,40 km
+458,Express,tren,30 km
+459,17,autobus,40 km
+460,Express,bicicleta,20 km
+461,Periferico,tren,30 km
+462,Ramos,tren,20 km
+463,17,autobus,40 km
+464,17,autobus,30 km
+465,Ramos,bicicleta,10 km
+466,Ramos,tren,20 km
+467,Periferico,bicicleta,10 km
+468,2B San Angel,bicicleta,40 km
+469,Periferico,bicicleta,50 km
+470,Express,tren,10 km
+471,17,autobus,10 km
+472,Express,bicicleta,10 km
+473,Ramos,bicicleta,40 km
+474,Express,autobus,50 km
+475,Express,tren,40 km
+476,Ramos,tren,30 km
+477,Express,tren,20 km
+478,17,tren,20 km
+479,Periferico,autobus,20 km
+480,Express,bicicleta,40 km
+481,2B San Angel,bicicleta,40 km
+482,2B San Angel,autobus,40 km
+483,Ramos,autobus,10 km
+484,Periferico,autobus,20 km
+485,Periferico,tren,20 km
+486,Ramos,tren,40 km
+487,Periferico,autobus,40 km
+488,2B San Angel,tren,50 km
+489,Ramos,bicicleta,10 km
+490,Express,tren,40 km
+491,17,bicicleta,20 km
+492,Ramos,bicicleta,30 km
+493,Periferico,autobus,20 km
+494,17,autobus,40 km
+495,Ramos,bicicleta,10 km
+496,Express,autobus,10 km
+497,Express,bicicleta,40 km
+498,17,autobus,10 km
+499,Ramos,autobus,50 km
+500,Ramos,bicicleta,10 km
+501,Ramos,autobus,30 km
+502,Express,tren,10 km
+503,Express,bicicleta,40 km
+504,17,bicicleta,40 km
+505,2B San Angel,autobus,20 km
+506,2B San Angel,tren,50 km
+507,2B San Angel,autobus,10 km
+508,Express,autobus,30 km
+509,Periferico,autobus,30 km
+510,Ramos,autobus,10 km
+511,Express,bicicleta,30 km
+512,Periferico,bicicleta,10 km
+513,2B San Angel,bicicleta,10 km
+514,2B San Angel,tren,20 km
+515,17,autobus,30 km
+516,Express,bicicleta,20 km
+517,17,autobus,20 km
+518,Ramos,tren,50 km
+519,17,bicicleta,10 km
+520,Ramos,tren,30 km
+521,Ramos,autobus,30 km
+522,2B San Angel,tren,20 km
+523,17,autobus,50 km
+524,17,bicicleta,10 km
+525,2B San Angel,autobus,10 km
+526,17,tren,30 km
+527,Periferico,autobus,40 km
+528,Periferico,bicicleta,10 km
+529,Express,tren,40 km
+530,17,tren,20 km
+531,2B San Angel,tren,20 km
+532,Periferico,bicicleta,40 km
+533,Periferico,autobus,20 km
+534,Periferico,bicicleta,30 km
+535,Periferico,bicicleta,50 km
+536,Ramos,autobus,10 km
+537,Periferico,bicicleta,30 km
+538,Periferico,tren,20 km
+539,Ramos,tren,50 km
+540,2B San Angel,bicicleta,30 km
+541,17,autobus,40 km
+542,2B San Angel,tren,30 km
+543,2B San Angel,bicicleta,40 km
+544,2B San Angel,tren,50 km
+545,Express,tren,30 km
+546,2B San Angel,autobus,50 km
+547,2B San Angel,tren,40 km
+548,Periferico,bicicleta,40 km
+549,17,autobus,40 km
+550,Periferico,autobus,30 km
+551,Express,tren,10 km
+552,Ramos,bicicleta,50 km
+553,Ramos,autobus,10 km
+554,Periferico,bicicleta,50 km
+555,Express,bicicleta,10 km
+556,Periferico,autobus,20 km
+557,17,bicicleta,20 km
+558,17,autobus,50 km
+559,Express,autobus,30 km
+560,Express,bicicleta,10 km
+561,Ramos,tren,10 km
+562,2B San Angel,tren,10 km
+563,Express,bicicleta,40 km
+564,Ramos,tren,20 km
+565,Ramos,bicicleta,10 km
+566,17,tren,40 km
+567,Ramos,tren,30 km
+568,Periferico,autobus,20 km
+569,2B San Angel,tren,20 km
+570,17,bicicleta,30 km
+571,Periferico,autobus,20 km
+572,17,bicicleta,20 km
+573,Ramos,tren,10 km
+574,Express,tren,10 km
+575,Express,tren,10 km
+576,2B San Angel,bicicleta,10 km
+577,Periferico,bicicleta,10 km
+578,17,tren,30 km
+579,Ramos,tren,50 km
+580,17,bicicleta,20 km
+581,Ramos,autobus,40 km
+582,Periferico,autobus,50 km
+583,Express,bicicleta,40 km
+584,Express,autobus,40 km
+585,Express,tren,40 km
+586,17,autobus,50 km
+587,Ramos,bicicleta,50 km
+588,Periferico,bicicleta,30 km
+589,17,bicicleta,30 km
+590,Ramos,autobus,40 km
+591,Periferico,bicicleta,30 km
+592,2B San Angel,autobus,40 km
+593,Periferico,bicicleta,10 km
+594,Periferico,tren,20 km
+595,17,tren,50 km
+596,Periferico,bicicleta,50 km
+597,Periferico,bicicleta,10 km
+598,Periferico,tren,20 km
+599,Express,bicicleta,50 km
+600,2B San Angel,autobus,10 km
+601,17,tren,30 km
+602,Express,autobus,50 km
+603,Ramos,tren,20 km
+604,17,bicicleta,40 km
+605,Express,autobus,10 km
+606,17,tren,40 km
+607,Ramos,bicicleta,20 km
+608,17,tren,40 km
+609,17,autobus,40 km
+610,Periferico,bicicleta,30 km
+611,Express,autobus,20 km
+612,Ramos,bicicleta,10 km
+613,Express,tren,40 km
+614,Express,autobus,50 km
+615,Ramos,bicicleta,40 km
+616,Periferico,tren,40 km
+617,17,bicicleta,50 km
+618,Express,tren,20 km
+619,2B San Angel,bicicleta,20 km
+620,Express,autobus,50 km
+621,2B San Angel,tren,20 km
+622,Express,bicicleta,50 km
+623,Periferico,bicicleta,10 km
+624,Ramos,bicicleta,50 km
+625,Periferico,autobus,10 km
+626,Periferico,tren,40 km
+627,Express,tren,10 km
+628,Ramos,bicicleta,20 km
+629,Ramos,bicicleta,40 km
+630,Express,bicicleta,30 km
+631,Express,tren,40 km
+632,Ramos,bicicleta,50 km
+633,Periferico,bicicleta,10 km
+634,Periferico,autobus,40 km
+635,Periferico,bicicleta,10 km
+636,2B San Angel,autobus,40 km
+637,Periferico,bicicleta,30 km
+638,17,bicicleta,10 km
+639,Express,tren,50 km
+640,Express,tren,10 km
+641,Periferico,autobus,30 km
+642,Ramos,autobus,20 km
+643,2B San Angel,autobus,30 km
+644,Express,bicicleta,20 km
+645,Ramos,bicicleta,50 km
+646,Express,autobus,40 km
+647,17,bicicleta,10 km
+648,2B San Angel,tren,20 km
+649,Express,tren,10 km
+650,Express,tren,40 km
+651,Periferico,bicicleta,40 km
+652,Periferico,autobus,10 km
+653,17,bicicleta,50 km
+654,2B San Angel,bicicleta,20 km
+655,Express,tren,20 km
+656,2B San Angel,bicicleta,20 km
+657,Express,autobus,20 km
+658,Express,tren,30 km
+659,Periferico,bicicleta,40 km
+660,Express,tren,50 km
+661,Periferico,bicicleta,40 km
+662,2B San Angel,tren,30 km
+663,Ramos,tren,10 km
+664,2B San Angel,autobus,50 km
+665,17,autobus,40 km
+666,Express,tren,10 km
+667,17,tren,50 km
+668,2B San Angel,bicicleta,50 km
+669,2B San Angel,autobus,50 km
+670,Ramos,bicicleta,10 km
+671,Ramos,autobus,20 km
+672,Express,tren,20 km
+673,Ramos,tren,30 km
+674,Ramos,tren,50 km
+675,Ramos,tren,50 km
+676,17,bicicleta,10 km
+677,Express,bicicleta,20 km
+678,Periferico,bicicleta,30 km
+679,Periferico,bicicleta,30 km
+680,17,bicicleta,40 km
+681,17,bicicleta,50 km
+682,17,autobus,40 km
+683,2B San Angel,tren,40 km
+684,17,bicicleta,20 km
+685,Ramos,autobus,20 km
+686,17,bicicleta,50 km
+687,Periferico,autobus,20 km
+688,17,autobus,20 km
+689,Express,bicicleta,50 km
+690,Periferico,tren,30 km
+691,2B San Angel,autobus,50 km
+692,Express,autobus,20 km
+693,Express,tren,10 km
+694,17,autobus,10 km
+695,Ramos,autobus,20 km
+696,2B San Angel,tren,40 km
+697,2B San Angel,tren,20 km
+698,2B San Angel,tren,10 km
+699,2B San Angel,bicicleta,10 km
+700,Ramos,autobus,20 km
+701,Ramos,autobus,30 km
+702,17,tren,40 km
+703,Ramos,autobus,10 km
+704,Periferico,bicicleta,10 km
+705,17,tren,30 km
+706,17,autobus,20 km
+707,2B San Angel,autobus,40 km
+708,Periferico,bicicleta,30 km
+709,17,autobus,30 km
+710,Periferico,bicicleta,40 km
+711,Express,bicicleta,50 km
+712,Ramos,tren,40 km
+713,2B San Angel,tren,50 km
+714,Express,bicicleta,40 km
+715,Ramos,autobus,40 km
+716,Ramos,bicicleta,40 km
+717,Periferico,tren,40 km
+718,17,tren,10 km
+719,Periferico,autobus,40 km
+720,Express,bicicleta,10 km
+721,Periferico,tren,50 km
+722,Periferico,bicicleta,40 km
+723,Periferico,autobus,30 km
+724,17,bicicleta,30 km
+725,Periferico,tren,10 km
+726,2B San Angel,tren,20 km
+727,2B San Angel,autobus,10 km
+728,Express,tren,10 km
+729,2B San Angel,autobus,40 km
+730,Periferico,tren,10 km
+731,2B San Angel,tren,30 km
+732,Express,bicicleta,40 km
+733,Periferico,tren,10 km
+734,Express,tren,50 km
+735,2B San Angel,autobus,50 km
+736,2B San Angel,autobus,10 km
+737,17,bicicleta,50 km
+738,Express,autobus,40 km
+739,2B San Angel,tren,40 km
+740,Periferico,tren,20 km
+741,2B San Angel,autobus,40 km
+742,17,tren,40 km
+743,Express,tren,50 km
+744,Express,autobus,50 km
+745,2B San Angel,bicicleta,40 km
+746,Periferico,tren,20 km
+747,Periferico,bicicleta,20 km
+748,Periferico,tren,20 km
+749,2B San Angel,bicicleta,30 km
+750,Ramos,autobus,30 km
+751,2B San Angel,autobus,10 km
+752,Express,bicicleta,30 km
+753,17,autobus,20 km
+754,17,autobus,30 km
+755,Ramos,autobus,10 km
+756,Ramos,bicicleta,40 km
+757,Periferico,bicicleta,20 km
+758,17,bicicleta,40 km
+759,17,tren,50 km
+760,Express,bicicleta,10 km
+761,17,bicicleta,10 km
+762,Ramos,autobus,30 km
+763,Periferico,tren,20 km
+764,17,bicicleta,50 km
+765,Periferico,bicicleta,30 km
+766,Periferico,autobus,50 km
+767,Ramos,bicicleta,20 km
+768,17,autobus,20 km
+769,Express,tren,40 km
+770,2B San Angel,bicicleta,10 km
+771,Ramos,bicicleta,20 km
+772,Express,autobus,10 km
+773,Express,tren,20 km
+774,Ramos,autobus,40 km
+775,Express,tren,10 km
+776,17,tren,10 km
+777,17,tren,50 km
+778,17,autobus,50 km
+779,Periferico,autobus,10 km
+780,2B San Angel,autobus,10 km
+781,17,tren,10 km
+782,Periferico,tren,40 km
+783,Periferico,tren,10 km
+784,17,autobus,40 km
+785,2B San Angel,tren,10 km
+786,Ramos,tren,30 km
+787,17,bicicleta,20 km
+788,Ramos,autobus,30 km
+789,Ramos,bicicleta,10 km
+790,17,bicicleta,40 km
+791,2B San Angel,tren,30 km
+792,Express,bicicleta,50 km
+793,Ramos,tren,40 km
+794,2B San Angel,autobus,50 km
+795,Ramos,bicicleta,10 km
+796,Periferico,tren,40 km
+797,2B San Angel,bicicleta,50 km
+798,17,bicicleta,50 km
+799,17,autobus,20 km
+800,Ramos,tren,50 km
+801,17,autobus,50 km
+802,Periferico,autobus,20 km
+803,Periferico,autobus,10 km
+804,2B San Angel,tren,20 km
+805,2B San Angel,autobus,30 km
+806,Periferico,tren,10 km
+807,17,tren,30 km
+808,Express,autobus,20 km
+809,Ramos,autobus,30 km
+810,17,autobus,30 km
+811,2B San Angel,tren,50 km
+812,Express,bicicleta,10 km
+813,2B San Angel,autobus,50 km
+814,17,bicicleta,50 km
+815,17,bicicleta,40 km
+816,Express,tren,20 km
+817,Express,autobus,20 km
+818,Ramos,autobus,10 km
+819,Ramos,autobus,30 km
+820,Periferico,autobus,40 km
+821,17,bicicleta,50 km
+822,Ramos,autobus,40 km
+823,Ramos,autobus,50 km
+824,Periferico,tren,40 km
+825,Express,autobus,20 km
+826,Periferico,bicicleta,20 km
+827,Periferico,bicicleta,10 km
+828,Ramos,bicicleta,50 km
+829,Periferico,autobus,40 km
+830,Express,tren,40 km
+831,2B San Angel,tren,20 km
+832,2B San Angel,tren,30 km
+833,2B San Angel,tren,40 km
+834,Periferico,autobus,40 km
+835,Ramos,autobus,50 km
+836,Ramos,autobus,20 km
+837,2B San Angel,bicicleta,50 km
+838,17,tren,20 km
+839,17,bicicleta,40 km
+840,Periferico,bicicleta,10 km
+841,2B San Angel,autobus,10 km
+842,17,tren,30 km
+843,Ramos,autobus,20 km
+844,17,tren,20 km
+845,2B San Angel,bicicleta,40 km
+846,2B San Angel,autobus,10 km
+847,Express,autobus,50 km
+848,17,autobus,50 km
+849,17,tren,40 km
+850,Ramos,autobus,30 km
+851,Express,bicicleta,40 km
+852,2B San Angel,tren,50 km
+853,Express,autobus,20 km
+854,Express,bicicleta,10 km
+855,Periferico,tren,40 km
+856,17,bicicleta,10 km
+857,17,autobus,30 km
+858,Express,autobus,40 km
+859,Express,bicicleta,30 km
+860,Periferico,bicicleta,20 km
+861,Periferico,autobus,10 km
+862,Periferico,autobus,20 km
+863,2B San Angel,autobus,30 km
+864,Periferico,autobus,50 km
+865,17,bicicleta,10 km
+866,17,autobus,10 km
+867,17,autobus,50 km
+868,17,bicicleta,30 km
+869,2B San Angel,tren,20 km
+870,Periferico,tren,10 km
+871,Periferico,autobus,50 km
+872,Express,tren,50 km
+873,17,tren,30 km
+874,17,tren,40 km
+875,Express,bicicleta,20 km
+876,17,tren,50 km
+877,17,autobus,50 km
+878,Express,autobus,30 km
+879,Periferico,tren,20 km
+880,Periferico,autobus,40 km
+881,Periferico,bicicleta,10 km
+882,Ramos,bicicleta,40 km
+883,Periferico,tren,50 km
+884,2B San Angel,tren,10 km
+885,Periferico,bicicleta,20 km
+886,Express,autobus,40 km
+887,17,bicicleta,10 km
+888,2B San Angel,bicicleta,30 km
+889,2B San Angel,tren,20 km
+890,2B San Angel,autobus,50 km
+891,2B San Angel,tren,30 km
+892,17,bicicleta,40 km
+893,Express,tren,10 km
+894,Express,autobus,10 km
+895,17,tren,40 km
+896,2B San Angel,tren,10 km
+897,2B San Angel,bicicleta,20 km
+898,Periferico,bicicleta,20 km
+899,Ramos,bicicleta,10 km
+900,Ramos,tren,30 km
+901,Express,bicicleta,30 km
+902,Ramos,autobus,40 km
+903,17,bicicleta,50 km
+904,2B San Angel,autobus,40 km
+905,Periferico,bicicleta,30 km
+906,Express,autobus,50 km
+907,Periferico,tren,50 km
+908,17,tren,30 km
+909,17,autobus,20 km
+910,Ramos,autobus,40 km
+911,17,autobus,30 km
+912,Ramos,autobus,20 km
+913,Periferico,bicicleta,20 km
+914,17,autobus,30 km
+915,Periferico,bicicleta,50 km
+916,Express,bicicleta,20 km
+917,Ramos,tren,10 km
+918,2B San Angel,tren,40 km
+919,17,autobus,30 km
+920,17,tren,30 km
+921,Express,bicicleta,10 km
+922,17,autobus,40 km
+923,Express,autobus,10 km
+924,2B San Angel,bicicleta,20 km
+925,Periferico,bicicleta,50 km
+926,Ramos,tren,40 km
+927,17,bicicleta,20 km
+928,2B San Angel,tren,20 km
+929,Express,bicicleta,10 km
+930,Ramos,autobus,40 km
+931,Ramos,autobus,40 km
+932,Periferico,autobus,30 km
+933,2B San Angel,autobus,30 km
+934,Periferico,bicicleta,50 km
+935,17,bicicleta,20 km
+936,Periferico,bicicleta,30 km
+937,17,tren,40 km
+938,2B San Angel,bicicleta,30 km
+939,Express,autobus,30 km
+940,Ramos,autobus,10 km
+941,17,bicicleta,40 km
+942,Express,bicicleta,40 km
+943,17,autobus,30 km
+944,2B San Angel,tren,50 km
+945,Ramos,tren,10 km
+946,2B San Angel,bicicleta,30 km
+947,Ramos,bicicleta,30 km
+948,Express,autobus,20 km
+949,Ramos,tren,50 km
+950,Ramos,tren,50 km
+951,Ramos,autobus,50 km
+952,2B San Angel,autobus,20 km
+953,Ramos,tren,20 km
+954,2B San Angel,tren,10 km
+955,Periferico,autobus,40 km
+956,Periferico,bicicleta,50 km
+957,Periferico,bicicleta,50 km
+958,Ramos,bicicleta,40 km
+959,Express,tren,50 km
+960,Ramos,tren,30 km
+961,17,autobus,10 km
+962,2B San Angel,autobus,40 km
+963,Ramos,bicicleta,50 km
+964,17,tren,50 km
+965,Ramos,tren,20 km
+966,Ramos,tren,30 km
+967,Express,bicicleta,30 km
+968,2B San Angel,bicicleta,50 km
+969,17,autobus,20 km
+970,Ramos,tren,30 km
+971,2B San Angel,bicicleta,30 km
+972,Express,tren,50 km
+973,Ramos,bicicleta,20 km
+974,Ramos,bicicleta,10 km
+975,Periferico,autobus,40 km
+976,2B San Angel,autobus,10 km
+977,Periferico,autobus,50 km
+978,Express,bicicleta,20 km
+979,Ramos,autobus,40 km
+980,17,autobus,40 km
+981,Ramos,bicicleta,40 km
+982,Periferico,autobus,40 km
+983,Periferico,autobus,40 km
+984,Periferico,tren,40 km
+985,17,autobus,10 km
+986,2B San Angel,autobus,10 km
+987,Express,bicicleta,30 km
+988,2B San Angel,autobus,40 km
+989,17,tren,20 km
+990,2B San Angel,tren,50 km
+991,Periferico,tren,50 km
+992,Periferico,tren,30 km
+993,2B San Angel,autobus,30 km
+994,Periferico,autobus,30 km
+995,Express,autobus,30 km
+996,Ramos,autobus,50 km
+997,17,tren,40 km
+998,Periferico,autobus,30 km
+999,Periferico,autobus,20 km
+1000,Periferico,bicicleta,10 km
